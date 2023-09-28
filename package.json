@@ -1,0 +1,16 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "- Sheida Moazeni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheidami/COMP3104"
+  },
+  "keywords": ["devops", "nodejs", "express"],
+  "author": "SheidaMoazeni-101382319",
+  "license": "ISC"
+}
